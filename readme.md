@@ -530,6 +530,12 @@ Example images not necessary. 🤦
 html:"DVR_H264 ActiveX"
 ```
 
+### Blue Iris UI3 NVRs [🔎 &#x2192;]([https://www.shodan.io/search?query=html%3A%22DVR_H264+ActiveX%22](https://www.shodan.io/search?query=title%3A%22ui3+-%22+%22HTTP%2F1.0+200+OK%22))
+
+```
+title:"ui3 -" "HTTP/1.0 200 OK"
+```
+
 
 ---
 
